@@ -12,9 +12,11 @@ This project is a workout reservation and user-friendly gym management system. I
 - [Andrew Nehalchuk](https://www.linkedin.com/in/andneh/)
 
 
-
 ## Project
 
-We developed the project in a [Computer-aided software engineering (CASE)](https://en.wikipedia.org/wiki/Computer-aided_software_engineering) tool such as [Sparx Systems Enterprise Architect (EA)](https://en.wikipedia.org/wiki/Enterprise_Architect_(software)).
-
 As a final project we did a [EA project](./Enterprise%20Architect/GymManager.eapx), [documentation]() (in Czech lang.) and [presentation]().
+
+
+## Software
+
+We developed the project in a [Computer-aided software engineering (CASE)](https://en.wikipedia.org/wiki/Computer-aided_software_engineering) tool such as [Sparx Systems Enterprise Architect (EA)](https://en.wikipedia.org/wiki/Enterprise_Architect_(software)).
