@@ -14,7 +14,7 @@ This project is a workout reservation and user-friendly gym management system. I
 
 ## Project
 
-As a final project we did a [EA project](./Enterprise%20Architect/GymManager.eapx), [documentation]() (in Czech lang.) and [presentation](./Documents/GymManager%20presentation%20slides.pdf).
+As a final project we did a [EA project](./Enterprise%20Architect/GymManager.eapx), [documentation](./Documents/GymManager.pdf) (in Czech lang.) and [presentation](./Documents/GymManager%20presentation%20slides.pdf).
 
 ## Software
 
